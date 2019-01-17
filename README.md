@@ -1,7 +1,5 @@
 # HelloWord
 The 1st try on Github
 
-
-This one is actually a branch, right?
-
+If I make changes to the file, what happens?
 
